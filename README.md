@@ -13,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ```bash
 git clone https://github.com/juniorit-ai/my-blog-visitorCounter.git
-cd my-blog
+cd my-blog-visitorCounter
 npm install
 ```
 
