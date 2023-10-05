@@ -1,4 +1,5 @@
 # my-blog
+#### This blog has a visitor counter that uses local storage.
 
 #### Becoming a full stack developer without any coding experience with https://JuniorIT.AI.
 
@@ -11,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Project setup
 
 ```bash
-git clone https://github.com/junirit-ai/my-blog.git
+git clone https://github.com/juniorit-ai/my-blog-visitorCounter.git
 cd my-blog
 npm install
 ```
